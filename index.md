@@ -2,124 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Git Khammany - Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+## About Me
+Hi, I'm Git Khammany, an aspiring SOC Analyst with hands-on experience in cybersecurity labs, Capture the Flag (CTF) challenges, and Python scripting. I have a passion for protecting critical systems and solving complex problems through technical expertise and innovation.
 
-There should be whitespace between paragraphs.
+[Connect with me on LinkedIn](https://www.linkedin.com/in/gitthisak-khammany-07016b265).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
-# This is git hacks
+## Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-Toah is the hacks
+### 1. Home Cybersecurity Lab
+**Overview**:  
+Built a lab environment to simulate SOC workflows and practice incident response.
 
-## Header 2
+**Key Features**:  
+- Implemented Elastic Stack for log collection, analysis, and real-time alerting.  
+- Practiced incident response by simulating attacks using virtual machines.  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Technologies Used**: Elastic Stack, Linux, Virtual Machines.  
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 2. Capture the Flag (CTF) Challenges
+**Overview**:  
+Participated in Hack the Box and other CTF events to develop penetration testing skills.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Key Achievements**:  
+- Solved challenges involving vulnerability assessment and system exploitation.  
+- Gained hands-on experience in network scanning, password cracking, and privilege escalation.  
 
-#### Header 4
+**Technologies Used**: Wireshark, Metasploit, Linux.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### 3. RFID & NFC Security Awareness
+**Overview**:  
+Demonstrated RFID/NFC vulnerabilities using Flipper Zero to raise awareness of wireless security risks.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Key Features**:  
+- Showcased potential threats with hotel key cards and NFC devices.  
+- Educated non-technical audiences on RFID-blocking wallets and best practices.
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### 4. Capstone Project: Insider Threats
+**Overview**:  
+Created a short film highlighting insider threats and their mitigation strategies.
 
-### There's a horizontal rule below this.
+**Key Features**:  
+- Researched behavioral indicators and real-world case studies.  
+- Combined technical research with creative storytelling to raise awareness.
 
-* * *
+---
 
-### Here is an unordered list:
+## Skills
+### Technical Skills
+- **SIEM Tools**: Elastic Stack, Wireshark  
+- **Scripting**: Basic Python  
+- **Systems**: Linux, Virtual Machines  
+- **Security Concepts**: Malware Analysis, Intrusion Detection, Vulnerability Assessment  
+- **Hardware**: RFID/NFC Exploration with Flipper Zero  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Soft Skills
+- Communication & Problem-Solving  
+- Team Collaboration  
+- Leadership & Mentorship  
+- Adaptability & Creativity  
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact
+Feel free to reach out or check out more of my work:  
+- **Email**: gittkhammany@gmail.com  
+- **LinkedIn**: [GitThisak Khammany](https://www.linkedin.com/in/gitthisak-khammany-07016b265)  
+- **GitHub**: [Your GitHub URL Here]  
