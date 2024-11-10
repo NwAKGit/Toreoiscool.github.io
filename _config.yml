@@ -4,5 +4,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 
-Title: Git's Portfolio of Projects ;)
-Description: [To show what I do, to my future employer!]
+title: [Git's Portfolio of Projects ;)]
+description: [To show what I do, to my future employer!]
