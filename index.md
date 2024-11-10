@@ -77,4 +77,4 @@ Created a short film highlighting insider threats and their mitigation strategie
 Feel free to reach out or check out more of my work:  
 - **Email**: gittkhammany@gmail.com  
 - **LinkedIn**: [GitThisak Khammany](https://www.linkedin.com/in/gitthisak-khammany-07016b265)  
-- **GitHub**: [nwakgit Profile](https://github.com/NwAKGit/nwakgit.github.io)   
+- **GitHub**: [nwakgit repos](https://github.com/NwAKGit/nwakgit.github.io)   
