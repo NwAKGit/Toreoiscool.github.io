@@ -51,9 +51,14 @@ Demonstrated RFID/NFC vulnerabilities using Flipper Zero to raise awareness of w
 **Overview**:  
 Created a short film highlighting insider threats and their mitigation strategies.
 
+I have this film posted on Youtube it's about 7 minutes long and goes over how anyone, even the most loyal, can be your worst nightmare.
+I used storytelling and a bit of creative audio to create this piece and tell a story of how someone within an organization can be a threat. 
+[This Video Here](https://www.youtube.com/watch?v=agszZwqljro&t=4s)
+
 **Key Features**:  
 - Researched behavioral indicators and real-world case studies.  
 - Combined technical research with creative storytelling to raise awareness.
+- Enforces least privilege and User Behavior Analysis 
 
 ---
 
