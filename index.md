@@ -5,7 +5,7 @@ layout: default
 # Git Khammany - Cybersecurity Portfolio
 
 ## About Me
-Hi, I'm Git Khammany, an aspiring SOC Analyst with hands-on experience in cybersecurity labs, Capture the Flag (CTF) challenges, and Python scripting. I have a passion for protecting critical systems and solving complex problems through technical expertise and innovation.
+Hi, I'm Git Khammany, an aspiring cyber professional with hands-on experience in cybersecurity labs, Capture the Flag (CTF) challenges, and Python scripting. I have a passion for protecting critical systems and solving complex problems through technical expertise and innovation.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gitthisak-khammany-07016b265).
 
