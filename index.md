@@ -16,13 +16,13 @@ Hi, I'm Git Khammany, an aspiring cyber professional with hands-on experience in
 ### 1. Home Cybersecurity Lab
 **Overview**:  
 Built a lab environment to simulate SOC workflows and practice incident response.
-You can find where to access the log [here](https://github.com/NwAKGit/nwakgit.github.io/blob/main/READ%20ME%20build%20SIEM%20with%20elastic%20Stack)
 
 **Key Features**:  
 - Implemented Elastic Stack for log collection, analysis, and real-time alerting.  
 - Practiced incident response by simulating attacks using virtual machines.  
 
-**Technologies Used**: Elastic Stack, Linux, Virtual Machines.  
+**Technologies Used**: Elastic Stack, Linux, Virtual Machines. 
+<img src="NMAP scan.png" alt="Project Screenshot" width="500px">
 
 ---
 
