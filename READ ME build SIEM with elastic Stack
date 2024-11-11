@@ -1,0 +1,56 @@
+1. Using elastic cloud to build a home siem lab
+in a kali box and using elastic cloud to capture data from the kali box 
+ 
+- make elastic stack account and download Virtual box and kali on it
+https://cloud.elastic.co/registration?elektra=cloud-trial&storm=hero
+https://www.kali.org/get-kali/#kali-platforms
+https://www.virtualbox.org/wiki/Downloads
+
+
+
+- so now you click on create "deployment" and select "Elasticsearch", then chose a "region and deploy".
+- now open up the oracle vm or virtualbox and put kali on it and install it 
+
+2. Now we set up the agent to collect the logs on the kali and send it to the siem
+- So click the "3 line button" then the elastic siem and add integration and select "elasticdefend" then "add"\
+- then follow the configuration steps I selected the full EDR package the "save and continue"
+- Now click "Add elastic agent to your host "
+- then copy the Linux command to install the agent on your host... p.s it shows you step by step
+- then paste it in the kali terminal and wait for it to be done. 
+- after its done make sure it works with **"sudo systemctl status elastic-agent.service"**
+
+- This is what you want to see that the service is "active (running)"
+
+
+3. Now where going to generate some data from our kali box and were using nmap.
+- so on kali run an namp scan in the terminal by using **"sudo nmap -p- localhost"** and also run **"sudo nmap -sS localhost"**
+- after both scans are done we can go back to the elastic cloud and go the "3 line button" and select "logs" under "observability" and look for you namp scans using the search bar
+- So the data found, you should view the details and see what it found, yep it found your nmap scans in the environment.
+
+4.  So going back to the elastic cloud were going to make a dashboard to visuals the events.
+- go into the menu and under "analytics" select "Dashboards"
+-  then in this order, Create... "Dashboard" to "Visualization" to "Area or line" to make the dashboard with charts and lines.
+- Then in the Metric section go to the horizontal section select "Timestamp" and in vertical select "Count of records" then save
+- then do more scans and pings on kali to get more data on the charts on kali. 
+
+5.  Now were going to create an Alert to help use figure now what is being pinged when someone is using our network. 
+-  so go to the dashboard and go into the menu and go to security and the go into alerts 
+- then we want to manage rules, create a new rule, custom query, then the source is going to be "event.action: "nmap_scan"" Then continue. 
+- under the "about rule section" give the rule a name and description mine was "Nmap scan detector" 
+- now to keep the rest default and continue through
+- and rule action where it emails you if it detects the scan
+- if you want to try it out just go to the kali box and do an nmap scan and have the action rule email you and it the elastic cloud should send you an alert if it detects and namp scan. 
+- XP
+
+**Conclusion:**
+Set up a home lab using Elastic SIEM and a kali VM. Then forwarded data from the Kali VM to the SIEM using the elastic Beats agent, generated security events on the Kali VM using Nmap, and queried and analyzed the logs in the SIEM using the Elastic web interface. We also created a dashboard to visualize security events and the created an alert to detect security events.
+
+
+- **ELASTIC STACK SIEM CONFIGURATION AND MANAGEMENT: 
+-SUCCESSFULLY SET UP AND CONFIGURED ELASTIC STACK SIEM IN A HOME LAB ENVIRONMENT. DEMONSTRATED PROFICIENCY IN DEPLOYING A KALI LINUX VM, CONFIGURING ELASTIC AGENTS FOR LOG COLLECTION, AND FORWARDING DATA TO THE SIEM FOR EFFECTIVE SECURITY EVENT MONITORING.**
+
+- **SECURITY EVENT SIMULATION AND ANALYSIS: 
+-ACQUIRED HANDS-ON EXPERIENCE IN GENERATING AND ANALYZING SECURITY EVENTS USING NMAP ON KALI LINUX. PROFICIENT IN QUERYING ELASTIC SIEM TO IDENTIFY AND INVESTIGATE SECURITY INCIDENTS, ENHANCING SKILLS IN NETWORK SECURITY MONITORING AND THREAT DETECTION.**
+
+- **VISUALIZATION AND ALERTING IN SIEM: 
+-DEVELOPED A CUSTOM DASHBOARD IN ELASTIC SIEM TO VISUALIZE SECURITY EVENTS, DEMONSTRATING SKILLS IN DATA INTERPRETATION AND PATTERN RECOGNITION. SUCCESSFULLY CREATED AND TESTED ALERT RULES FOR DETECTING SPECIFIC SECURITY EVENTS, SHOWING COMPETENCY IN PROACTIVE INCIDENT RESPONSE AND ALERT MANAGEMENT.
