@@ -22,6 +22,7 @@ Built a lab environment to simulate SOC workflows and practice incident response
 - Practiced incident response by simulating attacks using virtual machines.  
 
 **Technologies Used**: Elastic Stack, Linux, Virtual Machines. 
+
 <img src="NMAP scan.png" alt="Project Screenshot" width="500px">
 
 ---
