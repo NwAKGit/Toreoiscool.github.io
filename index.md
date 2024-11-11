@@ -38,7 +38,7 @@ Participated in Hack the Box and other CTF events to develop penetration testing
 
  This image shows the progress I made at a CTF event. 
 [Nwak CTF](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Nwak%20CTF.png)
-<img src="Nwak CTF.jpg" alt="Project Screenshot" width="500px">
+<img src="Nwak CTF.png" alt="Project Screenshot" width="500px">
 
 
 ---
