@@ -5,7 +5,7 @@ layout: default
 # Git Khammany - Cybersecurity Portfolio
 
 ## About Me
-Hi, I'm Git Khammany, an aspiring cyber professional with hands-on experience in cybersecurity labs, Capture the Flag (CTF) challenges, and Python scripting. I have a passion for protecting critical systems and solving complex problems through technical expertise and innovation.
+Hi, I'm Git Khammany, an aspiring cyber professional with hands-on experience in cybersecurity labs, Capture the Flag (CTF) challenges and Python scripting. I am passionate about protecting critical systems and solving complex problems through technical expertise and innovation.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gitthisak-khammany-07016b265).
 
@@ -35,6 +35,8 @@ Participated in Hack the Box and other CTF events to develop penetration testing
 - Gained hands-on experience in network scanning, password cracking, and privilege escalation.  
 
 **Technologies Used**: Wireshark, Metasploit, Linux.
+
+ This image shows the progress I made at a CTF event. 
 ![Nwak CTF](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Nwak%20CTF.png)
 
 ---
@@ -46,6 +48,9 @@ Demonstrated RFID/NFC vulnerabilities using Flipper Zero to raise awareness of w
 **Key Features**:  
 - Showcased potential threats with hotel key cards and NFC devices.  
 - Educated non-technical audiences on RFID-blocking wallets and best practices.
+
+  This image is my Flipper Zero successfully scanning a Dave&Buster's game card.
+![Flipper Card Scan](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Flipper%20Card%20Scan.jpg)
 
 ---
 
