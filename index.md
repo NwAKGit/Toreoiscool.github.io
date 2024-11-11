@@ -35,6 +35,7 @@ Participated in Hack the Box and other CTF events to develop penetration testing
 - Gained hands-on experience in network scanning, password cracking, and privilege escalation.  
 
 **Technologies Used**: Wireshark, Metasploit, Linux.
+![Nwak CTF](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Nwak%20CTF.png)
 
 ---
 
