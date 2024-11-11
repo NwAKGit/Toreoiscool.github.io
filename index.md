@@ -37,7 +37,6 @@ Participated in Hack the Box and other CTF events to develop penetration testing
 **Technologies Used**: Wireshark, Metasploit, Linux.
 
  This image shows the progress I made at a CTF event. 
-[Nwak CTF](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Nwak%20CTF.png)
 <img src="Nwak CTF.png" alt="Project Screenshot" width="500px">
 
 
@@ -52,7 +51,6 @@ Demonstrated RFID/NFC vulnerabilities using Flipper Zero to raise awareness of w
 - Educated non-technical audiences on RFID-blocking wallets and best practices.
 
   This image is my Flipper Zero successfully scanning a Dave&Buster's game card.
-[Flipper Card Scan](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Flipper%20Card%20Scan.jpg)
 <img src="Flipper Card Scan.jpg" alt="Project Screenshot" width="500px">
 
 
