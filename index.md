@@ -16,6 +16,7 @@ Hi, I'm Git Khammany, an aspiring cyber professional with hands-on experience in
 ### 1. Home Cybersecurity Lab
 **Overview**:  
 Built a lab environment to simulate SOC workflows and practice incident response.
+The image below is our SIEM successfully detecting a nmap scan!
 
 **Key Features**:  
 - Implemented Elastic Stack for log collection, analysis, and real-time alerting.  
