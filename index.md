@@ -51,6 +51,9 @@ Demonstrated RFID/NFC vulnerabilities using Flipper Zero to raise awareness of w
 
   This image is my Flipper Zero successfully scanning a Dave&Buster's game card.
 [Flipper Card Scan](https://github.com/NwAKGit/nwakgit.github.io/blob/main/Flipper%20Card%20Scan.jpg)
+<img src="Flipper Card Scan.jpg" alt="Project Screenshot" width="500px">
+
+
 
 ---
 
