@@ -1,8 +1,29 @@
 title: Hacker theme
 description: Hacker is a theme for GitHub Pages.
 show_downloads: true
-google_analytics:
+google_analytics: # You can add your tracking ID here if needed
 theme: jekyll-theme-hacker
 
 title: [Git's Portfolio of Projects ;)]
 description: [To show what I can do for my future employer!]
+
+# Collections for projects
+collections:
+  projects:
+    output: true # Ensures project pages are included in site build
+
+# Navigation Links (Optional)
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects # Automatically links all project pages
+  - name: Contact
+    link: /#contact
+
+# Optional: Base URL if hosting in a subdirectory
+baseurl: "" # Add subdirectory here if needed
+
+# Markdown Processor
+markdown: kramdown
+highlighter: rouge # Syntax highlighter
