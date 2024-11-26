@@ -11,7 +11,9 @@ Developed a local AI interface using Ollama to enable offline access to AI-power
 **Key Features**:  
 - Installed and configured Ollama to run AI models locally.  
 - Built a user-friendly interface to interact with the AI for tasks like text generation and data analysis.  
-- Ensured complete offline functionality for enhanced security and privacy.  
+- Ensured complete offline functionality for enhanced security and privacy.
+- Troubleshooting and Degubbing code.
+- Reading and Collecting logs.
 
 **Technologies Used**: Ollama, Python, Flask, Local Models.
 
