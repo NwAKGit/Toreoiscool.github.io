@@ -14,6 +14,6 @@ Participated in Hack the Box and other CTF events to develop penetration testing
 
 **Technologies Used**: Wireshark, Metasploit, Linux.
 
-<img src="/assets/images/Nwak CTF.png" alt="Project Screenshot" width="500px">
+<img src="/Images/Nwak CTF.png" alt="Project Screenshot" width="500px">
 
 [Back to Portfolio](/)
