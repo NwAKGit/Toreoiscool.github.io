@@ -15,7 +15,7 @@ Developed a local AI interface using Ollama to enable offline access to AI-power
 
 **Technologies Used**: Ollama, Python, Flask, Local Models.
 
-<img src="/assets/images/Input.png" alt="Project Screenshot" width="500px">
-<img src="/assets/images/Response.png" alt="Project Screenshot" width="500px">
+<img src="/Images/Input.png" alt="Project Screenshot" width="500px">
+<img src="/Images/Response.png" alt="Project Screenshot" width="500px">
 
 [Back to Portfolio](/)
