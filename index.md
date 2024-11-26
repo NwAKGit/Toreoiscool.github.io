@@ -84,10 +84,8 @@ Developed a local AI interface using Ollama to enable offline access to AI-power
 
 **Technologies Used**: Ollama, Python, Flask, Local Models.
 
-<video width="500" controls>
-  <source src="your-video-file.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="input.png" alt="Project Screenshot" width="100px">
+<img src="response.png" alt="Project Screenshot" width="100px">
 ---
 
 ## Skills
