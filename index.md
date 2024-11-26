@@ -73,6 +73,21 @@ I used storytelling and a bit of creative audio to create this piece and tell a 
 - Combined technical research with creative storytelling to raise awareness.
 - Enforces least privilege and User Behavior Analysis 
 
+### 5. Local AI Interface with Ollama
+**Overview**:  
+Developed a local AI interface using Ollama to enable offline access to AI-powered functionalities. This project focused on creating a secure, privacy-conscious environment for AI interactions without relying on cloud services.
+
+**Key Features**:  
+- Installed and configured Ollama to run AI models locally.  
+- Built a user-friendly interface to interact with the AI for tasks like text generation and data analysis.  
+- Ensured complete offline functionality for enhanced security and privacy.  
+
+**Technologies Used**: Ollama, Python, Flask, Local Models.
+
+<video width="500" controls>
+  <source src="your-video-file.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Skills
