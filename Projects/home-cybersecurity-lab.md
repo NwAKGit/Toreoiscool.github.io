@@ -15,6 +15,6 @@ The image below is our SIEM successfully detecting an Nmap scan!
 
 **Technologies Used**: Elastic Stack, Linux, Virtual Machines. 
 
-<img src="/assets/images/NMAP scan.png" alt="Project Screenshot" width="500px">
+<img src="/Images/NMAP scan.png" alt="Project Screenshot" width="500px">
 
 [Back to Portfolio](/)
